@@ -16,3 +16,10 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+
+
+public class Solution {
+    public static int getASCII(char ch) {
+        
+    }
+}
